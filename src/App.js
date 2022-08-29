@@ -66,7 +66,7 @@ const handleUpdate = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>React App</h1>
+        <h1>Everglades Tracker</h1>
         <button onClick={() => addData()}>Add Data</button>
         <button onClick={getData}>Get Data</button>
         <button onClick={handleDelete}>Delete Activity</button>
